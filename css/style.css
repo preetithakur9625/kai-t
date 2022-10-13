@@ -74,8 +74,7 @@ p.left-span {
 
 .right-section {
     padding: 50px 50px 50px 128px;
-    height: 96vh;
-    overflow-y: scroll;
+    height: 100%;
     background: #FFFFFF;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 20px;
